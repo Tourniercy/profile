@@ -8,7 +8,7 @@
 
 
 
-### ⚡ Stats (because stats are cool)
+### ⚡ Stats
 
 ![](https://komarev.com/ghpvc/?username=tourniercy)
 
